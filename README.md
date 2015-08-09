@@ -1,2 +1,3 @@
 # TutorialGitHub
-First steps with GitHub
+First steps with GitHub for Sveti
+
